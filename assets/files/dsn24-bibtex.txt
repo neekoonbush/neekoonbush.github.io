@@ -1,0 +1,10 @@
+@INPROCEEDINGS{zhengyangdsn24,
+  author={He, Zhengyang and Xu, Hui and Li, Guanpeng},
+  booktitle={2024 54th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)}, 
+  title={A Fast Low-Level Error Detection Technique}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={90-98},
+  keywords={Runtime;Single instruction multiple data;Error analysis;Transistors;Protection;Assembly;Optimization;Silent Data Corruption;Error Resilience;Fault Injection;Instruction Duplication},
+  doi={10.1109/DSN58291.2024.00023}}
