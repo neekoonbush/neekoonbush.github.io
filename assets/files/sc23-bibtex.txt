@@ -1,7 +1,16 @@
-@inproceedings{huang2023cuszp,
-  title={cuSZp: An Ultra-fast GPU Error-bounded Lossy Compression Framework with Optimized End-to-End Performance},
-  author={Huang, Yafan and Di, Sheng and Yu, Xiaodong and Li, Guanpeng and Cappello, Franck},
-  booktitle={Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis},
-  pages={1--13},
-  year={2023}
+@inproceedings{zhengyangSC,
+author = {He, Zhengyang and Huang, Yafan and Xu, Hui and Tao, Dingwen and Li, Guanpeng},
+title = {Demystifying and Mitigating Cross-Layer Deficiencies of Soft Error Protection in Instruction Duplication},
+year = {2023},
+isbn = {9798400701092},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3581784.3607078},
+doi = {10.1145/3581784.3607078},
+booktitle = {Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis},
+articleno = {86},
+numpages = {13},
+keywords = {system reliability, hardware transient faults, instruction duplication, compiler transformation, architecture, fault injection},
+location = {Denver, CO, USA},
+series = {SC '23}
 }
